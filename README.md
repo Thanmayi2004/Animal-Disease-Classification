@@ -7,8 +7,8 @@ This project uses machine learning to classify animal diseases based on observed
 **Modeling:** Several classifiers were trained and evaluated for accuracy, precision, recall, and F1-score.
 
 ## Key Features
-Ensemble Model: Voting classifier for combined model predictions.
-Evaluation Metrics: Comprehensive classification report for each model, detailing performance metrics.
+- **Ensemble Model:** Voting classifier for combined model predictions.
+- **Evaluation Metrics:** Comprehensive classification report for each model, detailing performance metrics.
 
 ## Requirements
 **Python libraries:** 
